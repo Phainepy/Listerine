@@ -1,0 +1,22 @@
+h1 {
+font-weight:700;
+font-size: 50px;
+}
+
+.question {
+    max-width: 800px;
+}
+
+.leftbucket {
+border: 2px solid gray;
+border-radius: 5px;
+max-width: 400px
+}
+
+.rightbucket {
+border: 2px solid gray;
+border-radius: 5px;
+max-width: 400px;
+margin: 20px 5px 5px 5px;
+padding: 10px 0px 10px 0px;
+}
